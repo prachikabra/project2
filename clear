@@ -1,0 +1,22 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 73c803c..c0bae5a 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,5 +1,2 @@[m
+[31m-// add new feature - form[m
+[31m-[m
+[31m-[m
+[31m-[m
+[32m+[m[32m// add new feature - button[m[41m  [m
+ [m
+[1mdiff --git a/app.js b/app.js[m
+[1mindex c0bae5a..73c803c 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,2 +1,5 @@[m
+[31m-// add new feature - button  [m
+[32m+[m[32m// add new feature - form[m
+[41m+[m
+[41m+[m
+[41m+[m
+ [m
